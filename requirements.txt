@@ -2,6 +2,7 @@
 defusedxml
 diff-match-patch
 Django
+django
 django-filter
 django-import-export
 django-widget-tweaks
