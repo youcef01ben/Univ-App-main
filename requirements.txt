@@ -21,3 +21,4 @@ tablib
 tzdata
 xlrd
 xlwt
+django-cors-headers
